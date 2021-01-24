@@ -1,0 +1,9 @@
+server:
+  port: 8083
+service:
+  info-finder-service:
+    id: music-info-finder-srv
+  detect-service:
+    id: music-detector-srv
+env:
+  id: dev
