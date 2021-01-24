@@ -13,4 +13,6 @@ spring:
       time-to-live: 100000
   redis:
     host: localhost
-    port=6379:
+    port: 6379
+env:
+  id: production
